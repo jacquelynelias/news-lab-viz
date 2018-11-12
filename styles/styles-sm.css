@@ -1,0 +1,31 @@
+@media only screen and (max-width: 600px) {
+    .box {
+        width:7px;
+        height:7px;
+        margin-left:1px;
+        margin-right:1px;
+        display:inline-block;
+    }
+  
+
+    .pagination>li>a, .pagination>li>span {
+        padding: 3px 6px;
+    }
+
+    .boxes {
+        padding-bottom:0px;
+        padding-top:0px;
+        margin-top:-10px;
+    }
+  
+    .name {
+      text-align:left;
+      display:inline-block;
+      font-size:8px;
+  
+    }
+
+    .body {
+        height:500px;
+    }
+}

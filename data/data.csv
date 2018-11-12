@@ -1,0 +1,152 @@
+﻿entity_16,difference,Days_16,Days_18,type_18
+Acworth Emp ,-2,3,1,Employees
+Acworth Police,-2,3,1,UoF
+Alpharetta Payroll,4,1,5,Employees
+Alpharetta PD ,3,1,4,UoF
+Atlanta Payroll,-49,54,5,Employees
+Atlanta PD Open Records Division,-44,50,6,UoF
+Atlanta Public Affairs,,Never,,
+Auburn,-4,4,0,Employees
+Auburn PD,10,2,12,UoF
+Austell Emp ,,Never,22,Employees
+Austell Police,-51,52,1,UoF
+Avondale Estates Emp.,15,2,17,Employees
+Avondale Estates Police ,-11,12,1,UoF
+Berkeley Lake Marshal,,N/A,N/A,UoF
+Berkley Lake ,0,0,0,Employees
+Braselton ,4,3,7,Employees
+Braselton PD,-3,5,2,UoF
+Brookhaven Emp.,0,2,2,Employees
+Brookhaven Police ,-6,6,0,UoF
+Buford ,1,2,3,Employees
+Buford Public Safety Department,,N/A,N/A,UoF
+Canton ,-5,7,2,Employees
+Canton Police,-6,7,1,UoF
+Carroll Co Emp,-2,3,1,Employees
+Carroll Co Sheriff ,-1,2,1,UoF
+Carrollton PD,6,6,12,UoF
+Carrollton Emp,2,1,3,Employees
+Chamblee Emp.,-13,21,8,Employees
+Chamblee Police,0,20,20,UoF
+Chattahoochee Hills Payroll,-4,6,2,Employees
+Chattahoochee Hills PD ,-1,2,1,UoF
+Cherokee Co Sheriff,0,0,0,UoF
+Cherokee County ,0,1,1,Employees
+Clarkston Emp.,0,2,2,Employees
+Clarkston Police,-41,46,5,UoF
+Clayton County,-2,6,4,Employees
+Clayton County PD,-9,26,17,UoF
+Clayton County Sheriff,0,3,3,UoF
+Cobb Emp ,-3,4,1,Employees
+Cobb County Police,3,2,5,UoF
+Cobb County Sheriff,-54,54,0,UoF
+College Park Payroll,,0,,Employees
+College Park PD ,17,1,18,UoF
+Coweta Co Emp,1,1,2,Employees
+Coweta County Sherrif,-1,1,0,UoF
+Cumming ,-3,3,,Employees
+Cumming Police,0,1,1,UoF
+Dacula ,9,2,11,Employees
+Dacula Marshal,4,0,4,UoF
+Dallas Emp,6,0,6,Employees
+Dallas PD,0,1,1,UoF
+Decatur Emp.,,Never,17,Employees
+Decatur Police,-3,4,1,UoF
+Dekalb County Emp.,-2,7,5,Employees
+Dekalb County Police,5,1,6,UoF
+Dekalb County Sheriff,-51,54,3,UoF
+Doraville Emp.,0,4,4,Employees
+Doraville Police,6,3,9,UoF
+Douglas Co Sheriff,2,1,3,UoF
+Douglas County ,-1,1,0,Employees
+Douglasville ,1,2,3,Employees
+Douglasville Police,1,1,2,UoF
+Duluth ,0,1,1,Employees
+Duluth PD,,1,,UoF
+Dunwoody Emp.,-1,2,1,Employees
+Dunwoody Police,-18,19,1,UoF
+East Point Payroll,4,11,15,Employees
+East Point PD ,8,5,13,UoF
+Fairburn Payroll,-6,8,2,Employees
+Fairburn PD ,-5,8,3,UoF
+Fayette Co Emp,-3,3,0,Employees
+Fayette County Sheriff,-1,1,0,UoF
+Fayetteville Emp,7,1,8,Employees
+Fayetteville Police ,0,1,1,UoF
+Forest Park Emp,4,3,7,Employees
+Forest Park PD,-9,9,0,UoF
+Forsyth Co Sheriff,18,4,22,UoF
+Forsyth County ,0,1,1,Employees
+Fulton Co Payroll,,55,Pending,Employees
+Fulton Co PD ,0,0,0,UoF
+Fulton Co Sheriff ,,20,Can't Find,UoF
+Grayson ,-4,4,0,Employees
+Gwinnett County ,,3,Never,Employees
+Gwinnett PD,-8,9,1,UoF
+Gwinnett Sheriff,-17,20,3,UoF
+Hapeville Payroll,-25,28,3,Employees
+Hapeville PD ,-48,51,3,UoF
+Henry County ,0,2,2,Employees
+Henry Co Police,0,0,0,UoF
+Henry Co Sheriff,-3,3,0,UoF
+Johns Creek Payroll,-1,4,3,Employees
+Johns Creek PD ,0,3,3,UoF
+Jonesboro Emp,-52,62,10,Employees
+Jonesboro PD,2,2,4,UoF
+Kennesaw Emp,-24,26,2,Employees
+Kennesaw Police,-14,19,5,UoF
+Lake City Emp,0,0,0,Employees
+Lake City PD,-1,1,0,UoF
+Lawrenceville ,-1,3,2,Employees
+Lawrenceville PD,-1,3,2,UoF
+Lilburn ,,N/A,4,Employees
+Lilburn PD,-1,2,1,UoF
+Lithonia Emp.,,Never,,Employees
+Lithonia Police,,N/A,13,UoF
+Loganville ,-1,1,0,Employees
+Loganville PD,-1,2,1,UoF
+Lovejoy Emp,-3,9,6,Employees
+Lovejoy PD,,9,,UoF
+Marietta Emp ,1,1,2,Employees
+Marietta Police,1,6,7,UoF
+McDonough ,-12,20,8,Employees
+McDonough Police,-4,15,11,UoF
+Milton Payroll,0,1,1,Employees
+Milton PD ,-1,1,0,UoF
+Morrow Emp,,Never,1,Employees
+Morrow PD,-4,4,0,UoF
+Mountain Park Payroll,4,1,5,Employees
+Mountain Park PD ,-6,6,0,UoF
+Newnan Emp,-1,1,0,Employees
+Newnan Police ,2,0,2,UoF
+Norcross ,-1,20,19,Employees
+Norcross PD,-12,13,1,UoF
+Palmetto Payroll,-22,27,5,Employees
+Palmetto PD ,0,1,1,UoF
+Paulding Co Emp,-4,4,0,Employees
+Paulding Co Sheriff,-1,1,0,UoF
+Peachtree Corners,10,1,11,Employees
+Pine Lake Police,-2,5,3,UoF
+Pine Lake Emp.,-2,3,1,Employees
+Powder Springs Emp  ,20,5,25,Employees
+Powder Springs Police,20,5,25,UoF
+Rest Haven,,4,,
+Riverdale Emp,-6,6,,Employees
+Riverdale PD,1,2,3,UoF
+Roswell Payroll,1,1,2,Employees
+Roswell PD ,-3,6,3,UoF
+Sandy Springs Payroll,-1,4,3,Employees
+Sandy Springs PD ,-21,24,3,UoF
+Smyrna Fin ,3,1,4,Employees
+Smyrna Police,-2,3,1,UoF
+Snellville ,0,1,1,Employees
+Snellville PD,-1,2,1,UoF
+South Fulton,,,5,UoF
+South Fulton ,,,,Employees
+Stone Mountain Emp.,-16,19,3,Employees
+Stone Mountain Police,-45,46,1,UoF
+Sugar Hill ,2,0,2,Employees
+Suwanee,0,1,1,Employees
+Suwanee PD,-1,2,1,UoF
+Union City Payroll,3,2,5,Employees
+Union City PD ,-8,12,4,UoF
