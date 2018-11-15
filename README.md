@@ -1,0 +1,1 @@
+Update [the table piece first](https://bitbucket.org/ajcnewsapp/georgia-news-lab-table), then follow those readme instructions to update `data/data.csv`
