@@ -64,6 +64,10 @@ var toProperCase = function(str) {
      var length = 15;
      while (p <= 11) {
         var html = ''
+        var key = ''
+        for (var i = 1; i <=30; i++) {
+            key = key + "<div class='box-text'>"+i+"</div>"
+        }
         for (var m = ((p-1)*length); (m < length * p && m < data.length); m++) {
             
             var int = parseInt(data[m]['Days_18'])
@@ -84,9 +88,9 @@ var toProperCase = function(str) {
 
         }
         if (p == 1) {
-            $('#viz').append('<div data-page="'+p+'">'+html+'</div>')
+            $('#viz').append('<div data-page="'+p+'">'+html+'<div class="row data-entry"><div class="col-xs-12 col-sm-1 col-lg-1 name"><div></div></div><div class="col-xs-12 col-lg-11 col-sm-11 boxes">'+key+'</div></div></div>')
         } else {
-            $('#viz').append('<div data-page="'+p+'" style="display: none;">'+html+'</div>')
+            $('#viz').append('<div data-page="'+p+'" style="display: none;">'+html+'<div class="row data-entry"><div class="col-xs-12 col-sm-1 col-lg-1 name"><div></div></div><div class="col-xs-12 col-lg-11 col-sm-11 boxes">'+key+'</div></div></div>')
         }    
         p = p + 1
     }

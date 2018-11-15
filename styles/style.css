@@ -8,6 +8,9 @@
     margin: 0px;
     padding:50px;
     width:100%;
+    max-height:600px;
+    max-width:1000px;
+    margin: 0 auto;
   }
 
   .box {
@@ -17,6 +20,16 @@
       margin-right:2px;
       background-color:#d3d3d3;
       display:inline-block;
+  }
+
+
+  .box-text {
+    width:10px;
+    height:10px;
+    margin-left:2px;
+    margin-right:2px;
+    display:inline-block;
+    font-size:8px;
   }
 
   .key {
@@ -42,11 +55,28 @@
 
   }
 
+  .day-name {
+    text-align:right;
+    display:inline-block;
+    font-size:8px;
+    margin: auto;
+    padding-right:0px;
+
+}
+
   div.box.end.compliant, .box.compliant {
-      background-color:#1ABC9C;
+      background-color:rgb(50, 148, 128);
   }
   div.box.end, .box.end {
       background-color:#B03A2E;
+  }
+
+  .main {
+      flex:center;
+  }
+
+  #viz {
+      margin-left:25%;
   }
 
   .data-entry {
